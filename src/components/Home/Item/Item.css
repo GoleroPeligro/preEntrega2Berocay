@@ -1,0 +1,27 @@
+.item {
+    margin: auto;
+    background-color: #a0a0a4;
+    width: 300px;
+    color: #000;
+    border: 1px gray solid;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .6);
+  }
+  .info-container {
+    padding: 30px;
+  }
+  
+  .img-prod {
+    max-width: 300px;
+    max-height: 400px;
+    border-radius: 15px 15px 0px 0px;
+    background-color: white;
+  }
+  .item-link{
+    color: #000;
+    text-decoration: none;
+  }
+  .item-link:visited{
+    text-decoration: none;
+  }

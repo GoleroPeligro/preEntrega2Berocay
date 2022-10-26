@@ -1,0 +1,6 @@
+.item-container{
+    justify-content: center;
+    margin: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}

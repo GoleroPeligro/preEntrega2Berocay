@@ -1,0 +1,20 @@
+.item-detail{
+    display: inline-block;
+    background-color:  #a0a0a4;
+    margin: 20px;
+    width: 500px;
+    border-radius: 20px;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .6);
+}
+.item-detail img{
+    width: 500px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.btn-comprar{
+    width: 100px;
+    margin: 20px;
+    padding: 5px;
+    display: inline-block;
+}
